@@ -1,0 +1,23 @@
+{
+    "films": [
+        {
+            "title": "Zootopia",
+            "desc": "You must have to watch it",
+            "url": "https://uakino.club/cartoon/324-zootropols.html",
+            "photo": "https://th.bing.com/th/id/R.6973fed0c0003f0944107b21e5a53e9f?rik=UUOEjoq7IxNNHA&riu=http%3a%2f%2fslovnet.ru%2fwp-content%2fuploads%2f2018%2f11%2f18-9.jpg&ehk=v9zHkAIpGQFnG3Vr5XlAARWDGDRqcfRVWYpElopTMVk%3d&risl=&pid=ImgRaw&r=0",
+            "rating": "10/10"
+        },
+        {
+            "title": "Pele is the birth of a legend",
+            "desc": "You must have to watch it",
+            "url": "http://moviestape.vet/katalog_filmiv/drama/8752-pele-narodzhennja-legendy.html",
+            "photo": "https://s6.vcdn.biz/static/f/735515871/image.jpg"
+        },
+        {
+            "title": "OPPENHEIMER",
+            "desc": "A film about a theoretical physicist",
+            "url": "https://uakino.club/filmy/militaries/18858-oppengeymer.html",
+            "photo": "https://pbs.twimg.com/media/FvUVt3hXgAAxP1H?format=jpg&name=900x900"
+        }
+    ]
+}
